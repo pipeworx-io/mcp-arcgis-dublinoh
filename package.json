@@ -1,0 +1,20 @@
+{
+  "name": "@pipeworx/mcp-arcgis-dublinoh",
+  "version": "0.1.0",
+  "description": "City of Dublin GIS — Dublin, Ohio open geospatial data (ArcGIS).",
+  "type": "module",
+  "main": "src/index.ts",
+  "types": "src/index.ts",
+  "keywords": ["mcp", "mcp-server", "model-context-protocol", "pipeworx", "arcgis-dublinoh"],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pipeworx-io/mcp-arcgis-dublinoh"
+  },
+  "scripts": {
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.0"
+  }
+}
