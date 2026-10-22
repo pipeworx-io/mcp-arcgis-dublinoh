@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-arcgis-dublinoh",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "City of Dublin GIS — Dublin, Ohio open geospatial data (ArcGIS).",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-36aa4d80c22fc156c46e23b2bfbf60214f935e23fca3b251956898394cb611df",
-    "sourceCommit": "351c40908821cfecc9bb2f5849d87bbfdbb26d75"
+    "sourceHash": "v1-b448a0ece16de93c5d443763c59019664dba8ec6b148fceed82be0101313418c",
+    "sourceCommit": "71f5325b13bb0ea0de2f0f7207885962ec91a484"
   }
 }
